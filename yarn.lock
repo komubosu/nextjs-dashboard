@@ -465,12 +465,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@neondatabase/serverless@npm:0.6.0":
-  version: 0.6.0
-  resolution: "@neondatabase/serverless@npm:0.6.0"
+"@neondatabase/serverless@npm:0.7.2":
+  version: 0.7.2
+  resolution: "@neondatabase/serverless@npm:0.7.2"
   dependencies:
     "@types/pg": 8.6.6
-  checksum: 25b81ba6b37e0ac56a746a1219de6107dd74d6f2d093bc23dc33b6fb8f33d00f80cb37eb0648afacd32ab0020b20c1809e3ec6e5c34d23fa21ae5b76d6041332
+  checksum: bfcd7e209aae0c0b05cbf40c5cbc105d9cf43a4f65171cee5f2a170132d015a547c5a8ee2b4cd6e963670ebe77eab5fd0db62d1636e816129fa343b1bd8ec141
   languageName: node
   linkType: hard
 
@@ -985,15 +985,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vercel/postgres@npm:^0.5.0":
-  version: 0.5.0
-  resolution: "@vercel/postgres@npm:0.5.0"
+"@vercel/postgres@npm:^0.7.2":
+  version: 0.7.2
+  resolution: "@vercel/postgres@npm:0.7.2"
   dependencies:
-    "@neondatabase/serverless": 0.6.0
-    bufferutil: 4.0.7
+    "@neondatabase/serverless": 0.7.2
+    bufferutil: 4.0.8
     utf-8-validate: 6.0.3
     ws: 8.14.2
-  checksum: 9fe0f496753a481d06566e7b846956c2129af081080f6618a4f9f8efb90ae53cc2aa1b3598a95ecc04f612b0ffdfcfffd20921fd1187fdc3db99b35d24b73a3f
+  checksum: 4e678b5d636b0d843357d4b84b7b0cb849bf62643bdb27c4c5224ac79f354a7ef655d7f0443800f7a600f1362b8607a7ce474f3222d32b446ea39930246cd999
   languageName: node
   linkType: hard
 
@@ -1440,13 +1440,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bufferutil@npm:4.0.7":
-  version: 4.0.7
-  resolution: "bufferutil@npm:4.0.7"
+"bufferutil@npm:4.0.8":
+  version: 4.0.8
+  resolution: "bufferutil@npm:4.0.8"
   dependencies:
     node-gyp: latest
     node-gyp-build: ^4.3.0
-  checksum: f75aa87e3d1b99b87a95f60a855e63f70af07b57fb8443e75a2ddfef2e47788d130fdd46e3a78fd7e0c10176082b26dfbed970c5b8632e1cc299cafa0e93ce45
+  checksum: 7e9a46f1867dca72fda350966eb468eca77f4d623407b0650913fadf73d5750d883147d6e5e21c56f9d3b0bdc35d5474e80a600b9f31ec781315b4d2469ef087
   languageName: node
   linkType: hard
 
@@ -4981,7 +4981,7 @@ __metadata:
     "@types/node": 20.5.7
     "@types/react": 18.2.21
     "@types/react-dom": 18.2.14
-    "@vercel/postgres": ^0.5.0
+    "@vercel/postgres": ^0.7.2
     "@vercel/style-guide": ^5.0.1
     autoprefixer: 10.4.15
     bcrypt: ^5.1.1
