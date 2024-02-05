@@ -4998,6 +4998,7 @@ __metadata:
     react-dom: 18.2.0
     tailwindcss: 3.3.3
     typescript: ^5.4.0-dev.20240123
+    use-debounce: ^10.0.0
     zod: ^3.22.2
   languageName: unknown
   linkType: soft
@@ -5810,6 +5811,15 @@ __metadata:
   dependencies:
     punycode: ^2.1.0
   checksum: 7167432de6817fe8e9e0c9684f1d2de2bb688c94388f7569f7dbdb1587c9f4ca2a77962f134ec90be0cc4d004c939ff0d05acc9f34a0db39a3c797dada262633
+  languageName: node
+  linkType: hard
+
+"use-debounce@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "use-debounce@npm:10.0.0"
+  peerDependencies:
+    react: ">=16.8.0"
+  checksum: b296fedba916ca721eeb7117f29a13c252966d03411abccc5e5894ed4de0f32b9cb6f6b150555b8b4cb9b0acf53b84022ad4cd43b89253389e9cd13779eebca7
   languageName: node
   linkType: hard
 
